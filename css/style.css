@@ -1,0 +1,153 @@
+
+header {
+  position: relative;
+  background-color: black;
+  height: 95vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+@media (pointer: coarse) and (hover: none) {
+  header {
+    background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+  }
+  header video {
+    display: none;
+  }
+}
+
+.social-body{
+position:fixed;
+top:50%;
+left:0;
+margin-top:-80px;
+z-index:999;
+  }
+
+  .social-body ul li{
+      display:block;
+  }
+  .social-body ul li a{
+      font-size:20px;
+      color:#fff;
+      background:#20a72b;
+      height: 40px;
+      width: 40px;
+      line-height:40px;
+      text-align:center;
+      display:block;
+      -webkit-transition:all 0.4s ease;
+      -moz-transition:all 0.4s ease;
+      transition:all 0.4s ease;
+  }
+  .social-body ul li a:hover{
+      width:50px;
+  }
+  .social-body  ul li.facebook a{
+      background:#425F9C;
+  }
+  .social-body .ul li.twitter a{
+      background:#1DA1F3;
+  }
+  .social-body ul li.instagram a {
+      background: #E21B75;
+  }
+  .social-body ul li.pinterest a{
+      background:#CB2028;
+  }
+  
+.navbar-brand{
+  margin-left: 50px;
+}
+
+
+.pustoy{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.pag-btns{
+  display: flex;
+  justify-content: center;
+  
+}
+.main-modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, .5);
+  display: none;
+}
+
+.inner-modal {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-close {
+  align-self: flex-start;
+}
+
+.main-modal1 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, .5);
+  display: none;
+}
+
+.inner-modal1 {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-close1 {
+  align-self: flex-start;
+}

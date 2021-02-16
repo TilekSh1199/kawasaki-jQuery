@@ -1,0 +1,60 @@
+{
+  "Kawasaki": [
+    {
+      "name": "ZX 10RR",
+      "price": "$19,999",
+      "descr": "Kawasaki Ninja ZX-10RR – это очередной представитель линейки японских спортивных мотоциклов, построенный на базе более устаревшей модели Kawasaki ZX-9R. От своих предшественников этот образец отличается больше визуально. Хотя и технические характеристики байка инженеры не оставили без внимания.",
+      "img": "file:///C:/Users/Antony/Desktop/img/imgonline4-com-ua-Resize-L5rxR4i7K5.jpg",
+      "id": 1
+    },
+    {
+      "name": "H2R",
+      "price": "$57,777",
+      "descr": "Мода на строительство серийных турбированных аппаратов захлестнула мировых производителей мотоциклов к середине «восьмидесятых» – то ли кризис идей и отсутствие более доступных возможностей форсирования, то ли наоборот, полет инженерной мысли и попытки заглянуть в будущее. Выраженная в безупречном сочетании спортивного               исполнения.",
+      "img": "file:///C:/Users/Antony/Desktop/img/imgonline5-com-ua-Resize-ZsMzPHRQkomBrw.jpg",
+      "id": 2
+    },
+    {
+      "name": "Ninja H2 SX SE+",
+      "price": "30,000$",
+      "descr": "В дополнение к Ninja H2 SX и Ninja H2 SX SE, совершенно новый Ninja H2 SX SE+ может похвастаться уникальной электронной подвеской и передовым высокотехнологичным оснащением, что делает этот мотоцикл флагманом 2019 года. Дальше и быстрее на нашем самом совершенном спорт-турере! Ninja H2 SX SE + ЗАРЯДИТ ВАШЕ ПУТЕШЕСТВИЕ.",
+      "img": "file:///C:/Users/Antony/Desktop/img/imgonline3-com-ua-Resize-rrjnBGY85RaVo7WZ.jpg",
+      "id": 3
+    },
+    {
+      "name": "Z1000 R Edition",
+      "price": "$13,300",
+      "descr": "Наследник невероятного Sugomi - новый Z1000 R Edition имеет яркий дизайн, тормоза Brembo M50, задний амортизатор Ohlins и полностью соответствует стандартам Euro4. Покоривший сердца еще до премьеры, Z1000 R Edition придется по душе поклонникам класса SuperNaked и любителям агрессивной езды.",
+      "img": "file:///C:/Users/Antony/Desktop/img/imgonline4-com-ua-Resize-L5rxR4i7K5.jpg",
+      "id": 4
+    },
+    {
+      "name": "Z650 ",
+      "price": "$8,700",
+      "descr": "Подобно своему предшественнику, великолепно сбалансированный Z650 оснащен 650-кубовым параллельным твином, установленным в легковесное шасси, с высоким крутящим моментом в низком и среднем диапазонах. Обновления двигателя значительно снизили выбросы.",
+      "img": "file:///C:/Users/Antony/Desktop/Moto%20Kawasaki/img/imgonlineVERSUS-com-ua-Resize-SwqOgqmgCJ.jpg",
+      "id": 5
+    },
+    {
+      "name": "KLX250",
+      "price": "$5,200",
+      "descr": "KLX250 - это проверенный мировыми чемпионатами мотоцикл, который может сделать вас следующим… Следующим Чемпионом. Следующим Героем. Следующей Легендой. Или создать целую эпоху вашего величия. Особенности: новый более мощный 249-кубовый 4-тактный двигатель.",
+      "img": "file:///C:/Users/Antony/Desktop/img/imgonline7-com-ua-Resize-NrzzvHbWIfuh4r.jpg",
+      "id": 7
+    },
+    {
+      "name": "KLX125",
+      "price": "$3,600",
+      "descr": "Маленький мотоцикл и огромное удовольствие - это модель KLX110. С него начинаются приключения. Особенности: новый более мощный 249-кубовый 4-тактный двигатель, новое гидравлическое сцепление с коническими пружинными дисками, новый электростартер, новая узкая рама.",
+      "img": "file:///C:/Users/Antony/Desktop/img/imgonline7-com-ua-Resize-NrzzvHbWIfuh4r.jpg",
+      "id": 8
+    },
+    {
+      "name": "Z900RS",
+      "price": "$15,500",
+      "descr": "Contributing to rider reassurance, the Z900RS is equipped with advanced Kawasaki rider support technology. KTRC features two modes that cover a wide range of riding conditions, offering either enhanced sport riding performance or the peace of mind to negotiate slippery surfaces with confidence.",
+      "img": "file:///C:/Users/Antony/Desktop/Moto%20Kawasaki/img/imgonlineVERSUS-com-ua-Resize-SwqOgqmgCJ.jpg",
+      "id": 9
+    }
+  ]
+}
